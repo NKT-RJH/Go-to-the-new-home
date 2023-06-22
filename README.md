@@ -4,18 +4,22 @@
 
 <hr class='hr-solid'/>
 
-<h4>프로그램 시연</h4>
+<h4>게임 시연</h4>
 
-<A href=""> 프로그램 시연 영상 </A><br>
+<A href=""> 게임 시연 영상 </A><br>
 
 <hr class='hr-solid'/>
 
 <h3>시스템 구조</h3>
 
 <details>
-<summary><i>실행 이미지</i></summary>
+<summary><i>인 게임 이미지</i></summary>
 <br>
-  <img width="640" alt="image" src=""><br>
+  - 타이틀<br>
+    <img width="640" alt="image" src=""><br>
+    <br>
+  - 플레이<br>
+    <img width="640" alt="image" src=""><br>
   <br>
 </details>
 
@@ -24,7 +28,7 @@
 <hr class='hr-solid'/>
 
 <h3>주요 코드</h3>
-<b>Client</b><br>
+<b></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;● <br>
 &nbsp;&nbsp;&nbsp;&nbsp;● 
 <details>
@@ -34,7 +38,7 @@
   ```
 </details><br>
 
-<b>Server</b><br>
+<b></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;● <br>
 &nbsp;&nbsp;&nbsp;&nbsp;● 
 <details>
@@ -44,7 +48,7 @@
   ```
 </details><br>
 
-<b>ClientData</b><br>
+<b></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;● <br>
 &nbsp;&nbsp;&nbsp;&nbsp;● 
 <details>
