@@ -28,7 +28,7 @@
 <hr class='hr-solid'/>
 
 <h3>주요 코드</h3>
-<b></b><br>
+<b>MovePlayer</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;● <br>
 &nbsp;&nbsp;&nbsp;&nbsp;● 
 <details>
@@ -38,7 +38,7 @@
   ```
 </details><br>
 
-<b></b><br>
+<b>PlayerHit</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;● <br>
 &nbsp;&nbsp;&nbsp;&nbsp;● 
 <details>
@@ -48,7 +48,37 @@
   ```
 </details><br>
 
-<b></b><br>
+<b>PlayerSkill</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;● <br>
+&nbsp;&nbsp;&nbsp;&nbsp;● 
+<details>
+    <summary><i>자세한 코드</i></summary>
+    
+  ```C#
+  ```
+</details>
+
+<b>PlayerStatus</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;● <br>
+&nbsp;&nbsp;&nbsp;&nbsp;● 
+<details>
+    <summary><i>자세한 코드</i></summary>
+    
+  ```C#
+  ```
+</details>
+
+<b>Enemy</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;● <br>
+&nbsp;&nbsp;&nbsp;&nbsp;● 
+<details>
+    <summary><i>자세한 코드</i></summary>
+    
+  ```C#
+  ```
+</details>
+
+<b>Ranking</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;● <br>
 &nbsp;&nbsp;&nbsp;&nbsp;● 
 <details>
