@@ -23,7 +23,7 @@
   <br>
 </details>
 
-<img width="700" alt="image" src="https://github.com/NKT-RJH/Go-to-the-new-home/assets/80941288/f7468e13-ac4b-4cd5-bc8f-8af68bd62935"><br>
+<img width="700" alt="image" src="https://github.com/NKT-RJH/Go-to-the-new-home/assets/80941288/bbc04ce0-3d29-4ff9-ba3f-11222a5bd5bb"><br>
 
 <hr class='hr-solid'/>
 
