@@ -10,7 +10,7 @@
 
 <hr class='hr-solid'/>
 
-<h3>시스템 구조</h3>
+<h3>게임 구조</h3>
 
 <details>
 <summary><i>인 게임 이미지</i></summary>
@@ -23,7 +23,7 @@
   <br>
 </details>
 
-<img width="700" alt="image" src=""><br>
+<img width="700" alt="image" src="https://github.com/NKT-RJH/Go-to-the-new-home/assets/80941288/f7468e13-ac4b-4cd5-bc8f-8af68bd62935"><br>
 
 <hr class='hr-solid'/>
 
